@@ -1,4 +1,5 @@
 # 🎥 Toktok
+<img src="https://github.com/user-attachments/assets/da25c223-0dd2-402f-bf33-0dc92db9174d" alt="Toktok Banner">
 
 Toktok is a dynamic platform for creating, sharing, and discovering short videos, built with Next.js, TypeScript, appwrite, zustand, shadcn, and Tailwind CSS. It offers a rich set of features to facilitate engaging and seamless video interactions, similar to TikTok.
 
